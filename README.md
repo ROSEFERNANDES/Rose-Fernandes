@@ -1,4 +1,5 @@
-# Olá,<p>eu sou Rose Fernandes!👑</p>
+# Olá,<p>eu sou <em>Rose Fernandes!</em>👑</p>
+
 
 
 **`Especialista em Prevenção à Fraude | Risco | Analytics | Banking & Payments`**
@@ -30,5 +31,5 @@ Experiência em Prevenção à Fraude com apoio de Dados.
 
 <p>Eu &#10084; Prevenção a Fraude e Analise de Dados!</p>
 
-<p>Filha do Rei✨</p>
+<p><em>Filha do Rei</em>✨</p>
 
