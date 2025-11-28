@@ -1,4 +1,4 @@
-# Olá,<p>eu sou Rose-Fernandes!👑</p>
+# Olá,<p>eu sou Rose Fernandes!👑</p>
 
 
 **`Especialista em Prevenção à Fraude | Risco | Analytics | Banking & Payments`**
